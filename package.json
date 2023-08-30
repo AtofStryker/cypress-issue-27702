@@ -1,0 +1,20 @@
+{
+  "name": "cypress-issue-27702",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Nandkumar Ghatge",
+  "license": "ISC",
+  "dependencies": {
+    "cypress-real-events": "^1.7.6"
+  },
+  "devDependencies": {
+    "@cypress/grep": "^3.1.5",
+    "cypress": "^12.17.4",
+    "cypress-iframe": "1.0.1",
+    "cypress-image-diff-js": "^1.23.0",
+    "cypress-multi-reporters": "1.6.3",
+    "cypress-plugin-stripe-elements": "1.0.2"
+  }
+}
